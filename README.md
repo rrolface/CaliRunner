@@ -17,4 +17,4 @@
 # Dificultad
 - La velocidad del juego va aumentando segun las cuadras recorridas que tengas en el juego, cada 5 segundos vas a aumentar 1 cuadra.
 
-#Santiago Osorio Granobles :)
+## Santiago Osorio Granobles :)
